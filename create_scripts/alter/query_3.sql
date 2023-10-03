@@ -1,1 +1,2 @@
-01af430d-3200-e20e-0006-582a0002716e
+alter table CUSTOMERS
+add column test5 varchar(30);
