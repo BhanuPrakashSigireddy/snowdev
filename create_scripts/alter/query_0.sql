@@ -1,2 +1,2 @@
 alter table CUSTOMERS
-add column test varchar(30);
+add column test5 varchar(30);
