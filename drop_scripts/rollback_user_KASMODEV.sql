@@ -1,0 +1,1 @@
+drop USER KASMODEV;
